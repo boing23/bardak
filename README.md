@@ -1,0 +1,2 @@
+# bardak
+file untuk safellinkku
